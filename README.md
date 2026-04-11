@@ -8,8 +8,11 @@ The project provides useful insights that support better decision-making and eff
 
  Objectives
 Analyze customer and transaction data
+
 Identify financial trends and patterns
+
 Classify customers based on risk levels
+
 Create interactive dashboards for easy understanding.
 
 
@@ -20,14 +23,22 @@ The data is cleaned, structured, and processed within Power BI. Interactive dash
 
 📈 Key Insights
 Identification of high-value customers
+
+
 Analysis of transaction patterns
+
+
 Understanding of risk distribution
+
+
 Monitoring of overall financial performance
 
 
 🧩 Features
 Interactive dashboards
+
 KPI indicators (Total Customers, Balance, Risk Level)
-Visual reports for trends and segmentation
+
+Visual  for trends and segmentation
 🚀 Conclusion
 This project helps in improving decision-making, enhancing customer segmentation, and managing financial risks effectively through data visualization.
