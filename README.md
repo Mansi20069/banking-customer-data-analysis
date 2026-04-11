@@ -40,5 +40,7 @@ Interactive dashboards
 KPI indicators (Total Customers, Balance, Risk Level)
 
 Visual  for trends and segmentation
+
+
 🚀 Conclusion
 This project helps in improving decision-making, enhancing customer segmentation, and managing financial risks effectively through data visualization.
